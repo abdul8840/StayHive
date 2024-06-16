@@ -2,5 +2,3 @@
 
 #Airbnb Clone
 
-Website Link :-
-https://stayhive.onrender.com
